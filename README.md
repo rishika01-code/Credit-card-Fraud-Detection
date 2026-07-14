@@ -1,4 +1,4 @@
-# Credit-card-Fraud-Detection using machine Learning
+# Credit-card-Fraud-Detection using Machine Learning
 ML-based credit card fraud detection system with imbalanced dataset handling and model performance comparison
 
 ## 📌 Project Overview
