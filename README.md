@@ -44,6 +44,51 @@ The following classification algorithms were implemented:
 - Gradient Boosting Classifier
 
 ---
+## ⚙️ Project Workflow
+
+1. Import required libraries
+2. Load the dataset
+3. Data preprocessing
+   - Remove unnecessary Time column
+4. Analyze class imbalance
+5. Balance the dataset using random undersampling
+6. Split data into training and testing sets
+7. Train multiple machine learning models
+8. Evaluate model performance
+9. Compare model accuracies
+10. Visualize results using confusion matrix and bar chart
+
+---
+
+## 📊 Model Performance
+
+| Model | Test Accuracy |
+|--------|--------------|
+| Logistic Regression | *93.40%* |
+| Random Forest | *91.88%* |
+| Gradient Boosting | *91.37%* |
+
+*Best Performing Model:* Logistic Regression
+
+---
+
+## 📈 Evaluation Metrics
+
+The models were evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+- Classification Report
+
+---
+
+## 📷 Results
+
+### Accuracy Comparison
+
 
 
 
