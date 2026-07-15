@@ -93,6 +93,63 @@ The models were evaluated using:
 ![image alt](https://github.com/rishika01-code/Credit-card-Fraud-Detection/blob/901ae4803a72c273791727c99f673ceff22a8f95/Screenshot%202026-07-14%20100552.png)
 
 ---
+##  How to Run
+
+### Clone the repository
+
+bash
+git clone https://github.com/rishika01-code/Credit-card-Fraud-Detection.git
+
+
+### Open the project
+
+bash
+cd Credit-card-Fraud-Detection
+
+
+### Install dependencies
+
+bash
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+
+### Run
+
+Open the notebook in *Google Colab* or *Jupyter Notebook* and execute all cells.
+
+---
+
+## 📁 Project Structure
+
+
+Credit-card-Fraud-Detection/
+│
+├── Credit_Card_Fraud_Detection.ipynb
+├── README.md
+└── creditcard.csv
+
+
+---
+
+## 🔮 Future Improvements
+
+- Use SMOTE instead of random undersampling
+- Deploy the model using Flask or Streamlit
+- Build a real-time fraud detection web application
+- Experiment with Deep Learning models
+- Improve fraud detection using ensemble learning techniques
+
+---
+
+## 👩‍💻 Author
+
+*Rishika*
+
+GitHub:
+https://github.com/rishika01-code
+
+---
+
 
 
 
