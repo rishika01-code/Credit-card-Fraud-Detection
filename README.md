@@ -12,4 +12,38 @@ The project compares multiple machine learning algorithms and evaluates their pe
 
 The primary objective of this project is to build an accurate machine learning model capable of detecting fraudulent credit card transactions while minimizing incorrect predictions.
 
+## 📂 Dataset
+
+- *Dataset:* Credit Card Fraud Detection Dataset
+- *Total Transactions:* 284,807
+- *Legitimate Transactions:* 284,315
+- *Fraudulent Transactions:* 492
+
+The original dataset is highly imbalanced. To reduce model bias during training, a balanced dataset was created by randomly selecting *492 legitimate transactions* and combining them with *492 fraudulent transactions*.
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Git & GitHub
+
+---
+
+## 🤖 Machine Learning Models
+
+The following classification algorithms were implemented:
+
+- Logistic Regression
+- Random Forest Classifier
+- Gradient Boosting Classifier
+
+---
+
+
 
