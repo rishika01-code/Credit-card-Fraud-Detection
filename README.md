@@ -88,6 +88,7 @@ The models were evaluated using:
 ## 📷 Results
 
 ### Accuracy Comparison
+![image alt](https://github.com/rishika01-code/Credit-card-Fraud-Detection/blob/b15c4de2020ad1d5cb279604f8dfe0693dcb6b90/Screenshot%202026-07-14%20100522.png)
 
 
 
