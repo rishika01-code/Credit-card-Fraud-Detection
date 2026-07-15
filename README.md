@@ -8,4 +8,8 @@ Credit card fraud has become one of the biggest challenges in digital banking an
 The project compares multiple machine learning algorithms and evaluates their performance using standard classification metrics.
 
 ---
+## 🎯 Objective
+
+The primary objective of this project is to build an accurate machine learning model capable of detecting fraudulent credit card transactions while minimizing incorrect predictions.
+
 
